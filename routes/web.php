@@ -24,3 +24,7 @@ Route::get('/home', function () {
 Route::get('/contact', function () {
     return view('contact_page');
 })->name('contact');
+
+Route::get('/education', function () {
+    return view('edu_page');
+})->name('education');
