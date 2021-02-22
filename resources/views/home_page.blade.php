@@ -43,32 +43,5 @@
         </p>
     </div>
 
-  <div class="edu-info">
-    <h3 style="margin-top: 10px; text-align: center;">Education</h3>
-    <p style="margin-left: 10px;">
-       2011: Finished Primary school at Taldykorgan N25<br>
-       2017: Finished Junior Highschool at Taldykorgan NIS<br> 
-       2019: Finished Senior Highschool at Taldykorgan NIS<br>
-       2019-2023: Studying at SDU<br>
-    </p>
-</div>
-
-<div class="work-info">
-    <h3 style="margin-top: 10px; text-align: center;">Working Experience</h3>
-    <p style="margin-left: 10px;">2014: Google Headquarters, California USA <br>
-       2017: Apple Park, Corporate Headquarters<br> 
-       2019: Tesla Motors, California USA<br>
-       2020: Nasa-SpaceX, Future Spaceprogramme, ISS <br>
-    </p>
-</div>
-
-<div class="contact-info">
-    <h3 style="margin-top: 10px; text-align: center;">Contact Information</h3>
-    <p style="margin-left: 10px;">Phone: 8 700 997 9389 <br>
-       Email 1: 190103129@sdu.edu.kz <br> 
-       Email 2: esbolsynov.s@gmail.com <br>
-       Office phone: 8 7282 222 33 44<br>
-    </p>
-</div>
 </body>
 </html>
