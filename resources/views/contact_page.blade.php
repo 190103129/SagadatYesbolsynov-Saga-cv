@@ -12,7 +12,10 @@
     border-radius: 10%;background-color: #feffea;margin-left:550px;">
         <h2 style="text-align:center;">Feel free to ask</h2>
         <p style="margin-left: 50px;font-size:25px;">Phone: 8 700 997 9389 <br>
-       Email: 190103129@sdu.edu.kz
+       Email: 190103129@sdu.edu.kz <br>
+       If you want to go back <---- <br>
+        <a href=" {{ route('home') }}">Home</a>
+        <a href=" {{ route('education') }}" style="margin-left:30px;">Education/work</a>
     </p>
     </div>
 </body>
