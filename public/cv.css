@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size: cover;
+}
+.saga{
+    background-color: rgb(6, 73, 136);
+    width: 250px;
+    height: 670px;
+    display: block;
+    font-size: 35px;
+    float: left;
+    color: #E7DFC6;
+    text-align: left;
+    padding: 30px 5px;
+}
+#pees{
+    padding: 10px 10px;
+}
+.saga-top{
+    background-color: #73877b;
+    width: 100%;
+    height:120px;
+    text-align: center;
+    font-size: 30px;
+    color: #E7DFC6;
+}
+.mix{
+    background-color: #3d6882;
+    width: 260px;
+    height: 120px;
+    position: absolute;
+    top: 0;
+}
+#logo{
+    margin-left:50px;
+}
+.card{
+    color: silver;
+    text-align: center;
+    height: 300px;
+    width: 15rem;
+    margin-left: 310px;
+    margin-top: 70px;
+    border: 2px solid  #3d6882;
+    border-radius: 10%;
+    background-color: #feffea;
+}
+.card-img-top{
+    padding-top: 15px;
+    width: 80%;
+    height: 90%;
+    border-radius: 10%;
+}
+.personal-info{
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    border: 2px solid  #3d6882;
+    border-radius: 10%;
+    margin-left: 600px;
+    color:  #506c64;
+    top: 180px;
+    font-size: 24px;
+    background-color: #feffea;
+}
+.edu-info{
+    position: absolute;
+    width: 550px;
+    height: 170px;
+    border: 2px solid  #3d6882;
+    border-radius: 10%;
+    margin-left: 903px;
+    color:  #506c64;
+    top: 180px;
+    font-size: 24px;
+    background-color: #feffea;
+}
+.work-info{
+    position: absolute;
+    width: 500px;
+    height: 170px;
+    border: 2px solid  #3d6882;
+    border-radius: 10%;
+    margin-left: 600px;
+    color:  #506c64;
+    top: 352px;
+    font-size: 24px;
+    background-color: #feffea;
+}
+.contact-info{
+    position: absolute;
+    width: 350px;
+    height: 170px;
+    border: 2px solid  #3d6882;
+    border-radius: 10%;
+    margin-left: 1103px;
+    color:  #506c64;
+    top: 352px;
+    font-size: 24px;
+    background-color: #feffea;
+}
